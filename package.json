@@ -28,7 +28,7 @@
     "rollup-plugin-uglify": "^6.0.4"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "the-answer": "^1.0.0",
     "zrender": "^4.2.0"
   }
