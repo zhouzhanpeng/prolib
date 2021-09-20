@@ -30,6 +30,6 @@
   "dependencies": {
     "axios": "^0.19.2",
     "the-answer": "^1.0.0",
-    "zrender": "^4.2.0"
+    "zrender": "^5.2.1"
   }
 }
